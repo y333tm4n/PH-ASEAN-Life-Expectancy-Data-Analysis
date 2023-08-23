@@ -1,4 +1,4 @@
-## Life Expectancy Analysis and Anomaly Detection
+## Life Expectancy Analysis 
 ## Overview
 This repository contains a data analysis project that focuses on exploring and analyzing life expectancy data for selected countries in Southeast Asia. The project utilizes Python, pandas, numpy, matplotlib, and other libraries to preprocess, visualize, and perform anomaly detection on the provided dataset.
 
