@@ -10,8 +10,6 @@ Data Preprocessing: The dataset is loaded and preprocessed to extract relevant i
 
 Data Visualization: Visualizations are created using pandas and matplotlib to gain insights into the trends and patterns of life expectancy values over time. Line charts and heatmaps are used to visualize trends and anomalies.
 
-Anomaly Detection: Anomaly detection techniques are applied to the life expectancy data. Z-Scores are calculated to identify countries with life expectancy values that deviate significantly from the mean. Anomalies are visualized using a heatmap.
-
 ## How to Use
 - Clone the repository to your local machine.
 - Replace 'your_file.csv' in the code with the path to your dataset CSV file.
